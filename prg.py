@@ -10,8 +10,18 @@ def duplicate_code():
   
     for i in x:
         print(i)
+        print(i) 
+        print(i)
+        print(i)
+        print(i)
     for i in y:
+        print(i) 
+        print(i)
+        print(i)
         print(i)  
+
+
+
 
 def null_example():
     user = None
